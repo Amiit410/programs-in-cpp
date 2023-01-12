@@ -14,12 +14,12 @@ it is a Doubly circuler linked list.
 
 Stack contains one default constructor and four methods
 1. Is_Stack_empty()
-2. push()
+2. push(T No)
 3. pop()
 4. Display()
 
 Queue contains one default constructor and four methods
 1. Is_Queue_empty()
-2. Enqueue()
+2. Enqueue(T No)
 3. Dequeue()
 4. Display()
