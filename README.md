@@ -12,13 +12,13 @@ it is a Doubly circuler linked list.
 6. DeleteAtPos(int Position)
 7. Display()
 
-Stack contains one default constructor and four methods
+Stack contains one default constructor and four methods(LIFO)
 1. Is_Stack_empty()
 2. push(T No)
 3. pop()
 4. Display()
 
-Queue contains one default constructor and four methods
+Queue contains one default constructor and four methods(FIFO)
 1. Is_Queue_empty()
 2. Enqueue(T No)
 3. Dequeue()
