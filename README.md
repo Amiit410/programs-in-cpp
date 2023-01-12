@@ -3,7 +3,7 @@
 collection.cpp contains total Three classess such as LinkedListX,Queue,Stack.
 
 LinkedListX contains one default constructor and seven methods such as,
-it is a Doubly circuler linked list.
+(it is a Doubly circuler linked list.)
 1. InsertFirst(T No)
 2. InsertLast(T No)
 3. InsertAtPos(T No, int position)
