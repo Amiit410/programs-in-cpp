@@ -1,2 +1,2 @@
 # programs-in-cpp
-# Customised generalised Data Structure Library.
+# Customised Generalised Data Structure Library.
